@@ -1,0 +1,18 @@
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\bin\Debug\RTFpad.exe
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\bin\Debug\RTFpad.pdb
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\obj\Debug\RTFpad.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\obj\Debug\RTFpad.rtfForm.resources
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\obj\Debug\RTFpad.Properties.Resources.resources
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\obj\Debug\RTFpad.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\obj\Debug\RTFpad.exe
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\RTFpad\obj\Debug\RTFpad.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.exe
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\bin\Debug\RTFpad.exe
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\bin\Debug\RTFpad.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.rtfForm.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.Properties.Resources.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.RTFFindForm.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\RTFpad\obj\Debug\RTFpad.AboutBox1.resources

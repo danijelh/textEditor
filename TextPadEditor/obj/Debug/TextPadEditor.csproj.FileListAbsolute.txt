@@ -1,0 +1,19 @@
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\bin\Debug\TextPadEditor.exe
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\bin\Debug\TextPadEditor.pdb
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.Properties.Resources.resources
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.exe
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.pdb
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.FindForm.resources
+C:\Users\Danijel\Desktop\Studij\IV semestar\Programski alati u programiranju\Projekti\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.FormtextPadEditor.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\bin\Debug\TextPadEditor.exe
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\bin\Debug\TextPadEditor.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.csprojResolveAssemblyReference.cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.FindForm.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.FormtextPadEditor.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.Properties.Resources.resources
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.csproj.GenerateResource.Cache
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.exe
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.pdb
+C:\Users\Danijel\Desktop\Programi\Moji programi\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.AboutBox1.resources

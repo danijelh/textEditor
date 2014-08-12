@@ -1,0 +1,8 @@
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\obj\Debug\RTFpad.rtfForm.resources
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\obj\Debug\RTFpad.Properties.Resources.resources
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\obj\Debug\RTFpad.csproj.GenerateResource.Cache
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\bin\Debug\RTFpad.exe
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\bin\Debug\RTFpad.pdb
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\obj\Debug\RTFpad.exe
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\RTFpad\obj\Debug\RTFpad.pdb

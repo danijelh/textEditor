@@ -1,0 +1,9 @@
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.Properties.Resources.resources
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.csproj.GenerateResource.Cache
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\bin\Debug\TextPadEditor.exe
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\bin\Debug\TextPadEditor.pdb
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.FindForm.resources
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.exe
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.pdb
+C:\Documents and Settings\dhrcek\Desktop\TextPadEditor\TextPadEditor\obj\Debug\TextPadEditor.FormtextPadEditor.resources
